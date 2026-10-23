@@ -210,4 +210,4 @@ dist/assets/index-Clv461ZB.js   703.15 kB │ gzip: 191.96 kB
 4. **Grounded Refusal**: If a question asked to the AI assistant has no verified backing chunks in the knowledge base, it explicitly refuses to invent facts.
 =======
 # ImpactSphere
-258897cb9a2b3291e0af587e8f48f63b4937e8eb
+git commit -m "Resolve README merge conflict"258897cb9a2b3291e0af587e8f48f63b4937e8eb
