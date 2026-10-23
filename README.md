@@ -1,3 +1,4 @@
+ HEAD
 # ImpactSphere AI — Smart Social Impact Platform
 
 > *"Turn compassion into measurable impact."*
@@ -207,3 +208,6 @@ dist/assets/index-Clv461ZB.js   703.15 kB │ gzip: 191.96 kB
 2. **Deterministic Matching**: Scores are calculated using explicit linear weights and never presented as acceptance probabilities.
 3. **No Fabricated Impact**: Data models strictly isolate measured physical logs from modeled economic multipliers ($31.80/hr).
 4. **Grounded Refusal**: If a question asked to the AI assistant has no verified backing chunks in the knowledge base, it explicitly refuses to invent facts.
+=======
+# ImpactSphere
+258897cb9a2b3291e0af587e8f48f63b4937e8eb
